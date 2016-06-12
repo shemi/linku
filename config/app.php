@@ -165,12 +165,12 @@ return [
         /*
          * IDE Helpers
          */
-        Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
+//        Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 
         /*
          * DEBUG
          */
-        Clockwork\Support\Laravel\ClockworkServiceProvider::class
+//        Clockwork\Support\Laravel\ClockworkServiceProvider::class
 
     ],
 
