@@ -25,7 +25,7 @@
             </p>
             <p>
                 {{--<a class="btn btn-default btn-lg" role="button">MORE INFO</a>--}}
-                <a class="btn btn-action btn-lg" href="{{ url('extension/linku-chrome-latest.crx') }}" role="button">DOWNLOAD NOW</a>
+                <a class="btn btn-action btn-lg" target="_blank" href="https://chrome.google.com/webstore/detail/linku-shared-bookmarks" role="button">DOWNLOAD NOW</a>
             </p>
         </div>
     </div>
