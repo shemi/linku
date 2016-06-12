@@ -1,0 +1,16 @@
+/vendor/
+/node_modules/
+/public/storage
+Homestead.yaml
+Homestead.json
+.env
+/.idea
+/.idea/
+.idea
+/resources/raw-images/
+.idea/workspace.xml
+resources/raw-images/
+.idea/workspace.xml
+/resources/templates/
+
+_ide_helper.php
