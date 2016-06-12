@@ -7,6 +7,8 @@
 
     <title>linku - share your bookmarks</title>
 
+    <meta name="google-site-verification" content="sFb1USJUk4minBhKRuTtB0t_Tgm2wPnIhYJBkVZSW4s" />
+
     <link rel="apple-touch-icon" sizes="57x57" href="/icons/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="/icons/apple-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="/icons/apple-icon-72x72.png">
