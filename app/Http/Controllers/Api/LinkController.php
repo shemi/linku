@@ -104,7 +104,6 @@ class LinkController extends ApiController
             $destinationFolder = Folder::findOrFail($request->input('folder'));
 
             if($this->user->cannot('move-link', compact('link', 'destinationFolder'))) {
-                logger('cant move');
                 return $this->setStatusCode(403)
                     ->respondWithError('You can\'t move this this bookmark...');
             }
