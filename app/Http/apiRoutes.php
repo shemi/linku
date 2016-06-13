@@ -16,7 +16,7 @@ Route::group([
 
         Route::resource('folder', 'FolderController', []);
 
-        Route::resource('link', 'linkController', ['except' => ['index', 'create', 'show', 'edit']]);
+        Route::resource('link', 'LinkController', ['except' => ['index', 'create', 'show', 'edit']]);
 
         Route::resource('share', 'ShareController', ['except' => ['index', 'show', 'create', 'edit']]);
         Route::post('share/invite', 'ShareController@inviteAndShare');
