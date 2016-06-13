@@ -10,9 +10,7 @@
         "kalnoy/nestedset": "^4.1",
         "tymon/jwt-auth": "^0.5.9",
         "barryvdh/laravel-cors": "^0.8.0",
-        "tijsverkoyen/css-to-inline-styles": "^2.0",
-        
-        "guzzlehttp/guzzle": "~5.3|~6.0"
+        "tijsverkoyen/css-to-inline-styles": "^2.0"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
